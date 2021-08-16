@@ -1,1 +1,1 @@
-# passwordgenerator
+This is a password generator. To use the generator, click on the "generate password" button and follow the prompts to get your password. If you don't like the first password you can click "generate password" button again and follow the prompts for a new one. 
